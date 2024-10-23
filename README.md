@@ -1,2 +1,2 @@
-# Scrum-DIO
+# Análise crítica textual
 Formação Scrum Master
